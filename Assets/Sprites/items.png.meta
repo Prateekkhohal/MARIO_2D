@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: c724e75c74c2d4685b3451852c25ea59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47405bc600f49f59690a5a94c2d302
+      internalID: -1989339470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3737ab96254a76bb8aa725ef72c9a
+      internalID: -1374974164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fda01e874cd4f3fac5a08846e596f8
+      internalID: -482541167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87a8bd92fb04e86b3f11b8e3e3325f
+      internalID: 247313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cfcdc2130af42468b2674707750cd7
+      internalID: -306666221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBlock_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a9db25e40944508ccdd97f1c1d86a
+      internalID: -1395904553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBlock_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 240
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df8653ba7b764a3fafc48aba055ac09
+      internalID: 2041677823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBlock_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a383327f4757419ba84c0d25a2b7355
+      internalID: 296764344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBlock_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784156ddc4d7d4ba7bd3db0dee14bda1
+      internalID: 1818462338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1afd87fa43b4a9b93b91059787b2af
+      internalID: 498825104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBall
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1c17a4e16f4ce5b3c393be52ec7ac
+      internalID: 1025358804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Coin: 498825104
+      CoinBlock_1: -1395904553
+      CoinBlock_2: 2041677823
+      CoinBlock_3: 296764344
+      CoinBlock_4: 1818462338
+      FireBall: 1025358804
+      Flag_1: -306666221
+      Flower_1: -482541167
+      Mushroom_1: -1989339470
+      Mushroom_2: -1374974164
+      Star_1: 247313547
+      items_10: 1270134069
+      items_100: -781539114
+      items_101: -1050270583
+      items_102: -1902405127
+      items_103: 581138994
+      items_104: 675958651
+      items_105: -913301678
+      items_106: -678075692
+      items_107: -1611946239
+      items_108: 1623468469
+      items_109: 1050925885
+      items_11: -1129121329
+      items_110: 1443349597
+      items_111: -1594523617
+      items_112: -1258099278
+      items_113: 787369988
+      items_114: 243327658
+      items_115: 1024533093
+      items_116: -1358262484
+      items_117: 942004505
+      items_118: -875654359
+      items_119: -843106692
+      items_12: 1021480457
+      items_120: -254377408
+      items_121: 1303428928
+      items_122: -46214736
+      items_123: -1280229699
+      items_124: -12837810
+      items_125: -895534995
+      items_126: 464115826
+      items_127: -848063794
+      items_128: -800898224
+      items_129: -1978524730
+      items_13: -87241811
+      items_130: -1548671665
+      items_131: -627690428
+      items_132: 1439017018
+      items_133: -1083773481
+      items_134: -940818462
+      items_135: 402099294
+      items_136: -2055325236
+      items_137: 320732383
+      items_138: -1674947038
+      items_139: -1885430603
+      items_14: -893471155
+      items_140: -986280990
+      items_141: 1111390780
+      items_142: -792848884
+      items_143: 887253558
+      items_144: -116794255
+      items_145: 38775085
+      items_146: -1933102542
+      items_147: 1238163598
+      items_148: -2032926834
+      items_149: 546464676
+      items_15: -28843514
+      items_150: 1354614666
+      items_151: -528315710
+      items_152: -1609401284
+      items_153: 754420816
+      items_154: 1830609023
+      items_155: 1050519439
+      items_156: -2896517
+      items_157: 1668117508
+      items_158: -1934692327
+      items_159: 2082704185
+      items_16: 1155572320
+      items_160: -962563307
+      items_161: -1726543292
+      items_162: -330761356
+      items_163: -1543062124
+      items_164: -270146840
+      items_165: -1915174064
+      items_166: -469007343
+      items_167: 687782975
+      items_168: 1240114086
+      items_17: -1585361595
+      items_18: -1826551371
+      items_19: 1380087615
+      items_22: 532968422
+      items_23: -661719666
+      items_25: 1902782958
+      items_26: -2032776183
+      items_27: -277563871
+      items_28: 1342287993
+      items_29: 585730610
+      items_3: 1590773657
+      items_30: 1672205050
+      items_31: -1051178333
+      items_32: -2052393040
+      items_33: -1999193927
+      items_34: 1567093370
+      items_35: 1102158725
+      items_36: -1702753206
+      items_37: 2046149742
+      items_38: -372344808
+      items_39: -271942206
+      items_4: 1722348878
+      items_44: -219546408
+      items_45: -1453131821
+      items_46: 53681988
+      items_47: -1443699120
+      items_48: 328606464
+      items_49: 1816705413
+      items_5: 427382722
+      items_50: -274955191
+      items_51: -657969558
+      items_52: 753355977
+      items_53: -83499551
+      items_54: 452295261
+      items_55: -921391287
+      items_56: 1536930441
+      items_57: -2002020743
+      items_58: 1790479116
+      items_59: 1149677289
+      items_6: 2128750838
+      items_61: 1048773726
+      items_62: 1284869672
+      items_63: 785216733
+      items_64: 1591839513
+      items_65: 931643081
+      items_66: 1629327148
+      items_67: -38960420
+      items_68: -1146522191
+      items_69: -1180498884
+      items_7: 1544422515
+      items_70: -1575393027
+      items_71: 938361897
+      items_72: 1465357990
+      items_73: -672030131
+      items_74: 907046049
+      items_75: 2015443206
+      items_76: -1646206387
+      items_77: 406284093
+      items_78: 605595635
+      items_79: 1316993686
+      items_8: 1629648172
+      items_80: 1952494213
+      items_81: -674683466
+      items_82: -871403624
+      items_83: 2144953901
+      items_84: -770818875
+      items_85: 614714285
+      items_86: -77653610
+      items_87: 563177052
+      items_88: -1093556392
+      items_89: -932262203
+      items_9: 794157469
+      items_90: -1817591204
+      items_91: 1771884857
+      items_92: -764713901
+      items_93: -485035771
+      items_94: -836803712
+      items_95: 172324320
+      items_96: -1865263836
+      items_97: 373812636
+      items_98: -1374035601
+      items_99: 1146814408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

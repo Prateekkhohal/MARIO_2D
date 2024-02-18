@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: d99d37bd76cc442518c28f7d837982fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bmario_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf06f2f56da14e54b52934e7a0f00ba
+      internalID: -1506443407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7314a74fd65bc4e8387dbca24e87f72b
+      internalID: 1376898029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf072c8f8bacd416ca866195ea90134f
+      internalID: -523062619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b6795dd83d4ad58ed0e39891ed853
+      internalID: -1601752806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb076636880c4b6eba7572c8a2a69c6
+      internalID: -2119230531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450af03dad78945f1b58273b79af9ae8
+      internalID: -2031114148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c427851acb4baf832ada7bf17576b
+      internalID: -859064894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c6e123698e4bb78f89b382d85281e
+      internalID: -337821888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441972ca62bfa40778dccd2bbcfb132b
+      internalID: -1423547774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1946bd042c94ea09a62dc711facf82
+      internalID: -1232298151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c85d97dfa448ca936ef9c13b2658e
+      internalID: -373259605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce32527442cf429bb23763404c88991
+      internalID: -174300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc7a1e022d14899b63f1ad5b4800b5
+      internalID: -1455761639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef62dfdd81e4d00ad5758188cc1070
+      internalID: 1195583585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d7c32be116452ea0254bde822430e
+      internalID: 1997168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b1e9bd3c6e4c99993a797f463e85b
+      internalID: 734663206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8c4b3623674192ac63225125ce485
+      internalID: -1305676807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f603811023bd48a396ab9265e3f499d
+      internalID: -1981622265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f30c93e638e4edda7ff5584e1312b5
+      internalID: 1110697333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee1ee5ff596400db01fd508149acbd
+      internalID: 415221413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c5e328731ac49689010a9c0a25b4a0
+      internalID: 1126555512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3880b770294e638fa1d8d7351545c
+      internalID: -546943385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c929f27594c4143b143ac19741c75d
+      internalID: 156752016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5ee4296ab2b4bf7aba4d6d61b39e98
+      internalID: 1884341654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b3a5c7050c40e7b7296eed58f83d6
+      internalID: 1896041404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f45cd3d8b194412b3743450673dff6
+      internalID: 1665828456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1ab1d8830b45008e4a292fce66f48
+      internalID: 718495190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78440e918d24879a34ee7d11d700f3
+      internalID: 796759125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a64e456e5a2446bbba98cdcbb1d58f
+      internalID: -1025687196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cfab3f5b094d4384ed148abc2dcb1
+      internalID: 120711108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c3876d35cbb4750a73bfcd3b46b505
+      internalID: 1842994372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98744b52cf644a89ab2dd032eae5216
+      internalID: 1068032444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675888da47859452cb26375d27e7a2a8
+      internalID: -1030472748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8bf7459511747c1ba950e7fbb5ae2f
+      internalID: -239054149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmario_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 18
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 12, y: 0}
+        - {x: 0, y: 12}
+        - {x: -12, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94239d7a6da4036a8564526bfd99ef
+      internalID: 52770930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bmario_0: -1506443407
+      Bmario_1: 1376898029
+      Bmario_10: -859064894
+      Bmario_11: -337821888
+      Bmario_12: -546943385
+      Bmario_13: -1423547774
+      Bmario_14: -1232298151
+      Bmario_15: -373259605
+      Bmario_16: 156752016
+      Bmario_17: -174300152
+      Bmario_18: -1455761639
+      Bmario_19: 1195583585
+      Bmario_20: 1884341654
+      Bmario_21: 52770930
+      Bmario_3: 734663206
+      Bmario_4: -523062619
+      Bmario_5: -1305676807
+      Bmario_6: -1601752806
+      Bmario_7: -2119230531
+      Bmario_8: -2031114148
+      Bmario_9: 415221413
+      mario_0: 1896041404
+      mario_1: 1665828456
+      mario_10: 1126555512
+      mario_11: 1068032444
+      mario_12: -1030472748
+      mario_13: -239054149
+      mario_2: 1997168
+      mario_22: -675994178
+      mario_23: -276362400
+      mario_25: -924102326
+      mario_26: 1613386476
+      mario_3: 718495190
+      mario_38: -1676202976
+      mario_39: -1939114485
+      mario_4: 796759125
+      mario_40: 6816555
+      mario_5: -1981622265
+      mario_6: -1025687196
+      mario_7: 1110697333
+      mario_8: 120711108
+      mario_9: 1842994372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
